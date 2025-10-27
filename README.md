@@ -3,9 +3,9 @@
 ## Obiettivi del Progetto
 - **Obiettivo Principale**:  Creare un rover che può andare su un altro pianeta
 - **Obiettivi Specifici**:
-  1. Il rover è in grado di rilevare ostacoli 
-  2. Legge la temperatura 
-  3. Salva i dati su un file
+  1) Il rover è in grado di rilevare ostacoli 
+  2) Legge la temperatura 
+  3) Salva i dati su un file
 
  ## Risorse
 - **Budget**: Decisamente poco
