@@ -1,4 +1,4 @@
-# Progetto Aziendale: **[Lunokhod 3]**
+# Progetto: **Lunokhod 3**
 
 ## Obiettivi del Progetto
 - **Obiettivo Principale**:  Creare un rover che può andare su un altro pianeta
